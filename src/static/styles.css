@@ -153,3 +153,24 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f0f8ff;
+  color: #333;
+  font-size: 14px;
+}
+
+.participant h5 {
+  margin-bottom: 5px;
+  color: #1a237e;
+  font-weight: bold;
+}
+
+.participant p {
+  margin: 0;
+  color: #555;
+}
